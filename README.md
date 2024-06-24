@@ -1,4 +1,3 @@
-# Digital-fast-food-ordering-system-
 FAST FOOD SYSTEM
 INTRODUCTION:
 Fast Food python project, aims to stimulate a Digital fast-food ordering system using Python programming language. It allows users to interact with the system, place orders, manage menus, and calculate total costs.
